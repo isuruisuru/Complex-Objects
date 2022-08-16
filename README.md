@@ -1,5 +1,7 @@
 Using JavaScript object, we can handle flexible data. 
 
+### __Please try to solve the activity on your own and refer this _only_ to clear any doubts__.
+
 ### Code
 
 ```JavaScript
